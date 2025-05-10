@@ -63,6 +63,7 @@ $httpClient.get(url, function(error, response, data) {
     icon: iconUrl,
     'icon-color': iconColor
   };
+
   
   $done(body);
 });
